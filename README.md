@@ -1,0 +1,6 @@
+# Sales In Period Walmart Analyst
+---
+<h3>Source code csv from <a href='https://www.kaggle.com/datasets/willianoliveiragibin/sales-in-period-walmart'>Kaggle.com</a></h3>
+---
+<h3> About this dataset: </h3>
+<p>Supermarkets employ sophisticated monthly and weekly sales strategies, leveraging a deep understanding of market demands, seasonality, and consumer behaviors. Monthly sales involve planned promotions and exclusive offers based on historical data and seasonal forecasts. Inventory management is closely tied to these strategies, aiming to balance supply and demand. Weekly sales focus on short-term customer attraction with flash promotions and exclusive offers. Continuous data analysis plays a crucial role in adjusting approaches based on customer feedback. Collecting weekly and monthly sales data is essential for identifying patterns and making quick adjustments. Successful implementation requires collaboration among marketing, sales, and inventory teams. Flexibility to adapt to changing market conditions is crucial for success. In summary, a well-balanced combination of monthly and weekly strategies allows supermarkets to meet diverse consumer needs, maintain a loyal customer base, and achieve consistent financial goals. The ability to balance supply and demand over time is key to lasting success in the competitive retail market.</p>
